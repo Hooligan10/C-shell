@@ -21,14 +21,12 @@ sudo apt-install gcc
 
 ## Features
 
-* Basic features like echo, pwd, ls [la, al, -a, -l,-l -a,-a -l], cd, exit.
+* Basic features like echo, pwd, ls [la, al, -a, -l,-l -a,-a -l], cd, exit, redirections, piping, setenv, unsetenv etc.
 * Modularization.
 * SemiColon separated commands accepted
- 
-## Authors
+
+## Author
 
 * **Maanik Arora(20161192)** 
-
-* **Abhishek Trivedi(20161153)**
 
 
